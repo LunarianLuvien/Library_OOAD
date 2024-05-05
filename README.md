@@ -1,2 +1,2 @@
-# Library_OOAD
-OOAD COURSE PROJECT - Basic Library System that supports registering and adding books to database and a simple borrowing function using Flask, SQLAlchemy. 
+# Library_OOAD_DomainDrivenDesign
+OOAD COURSE PROJECT - A basic library management system designed using domain-driven design, implemented with Flask and SQLAlchemy, supporting registration, cataloging, and borrowing of books.
